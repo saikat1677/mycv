@@ -1,0 +1,132 @@
+{
+    margin: 0;
+    padding: 0 ;
+}
+body{
+    background-image: url(1567677.jpg);
+        background-repeat: repeat;
+        background-repeat: no-repeat;
+    background-attachment: fixed;
+
+
+}
+.Container{
+max-width: 1000px ;
+height: 250px;
+background-image: url(1212.jpg);
+background-attachment: fixed;
+margin: 0 auto;
+padding: 10px;
+
+}
+header{
+
+
+}
+.profile-photo{
+    width: 200px;
+    height: 220px;
+    border: 3px solid wheat ;
+    border-radius: 50%;
+    float: left;
+
+}
+.header-bio{
+    float: left;
+    padding: 50px;
+
+}
+.header-contact{
+    float: right;
+    padding: 30px;
+
+    
+
+
+
+}
+.header-contact a {
+    text-decoration: none;
+    color:#0DE5DB ;
+    font-weight: bold;
+    
+
+    }
+.header-contact a:hover {
+    text-decoration: underline;
+    color: tomato;
+    
+
+    
+}
+h1,h2,h3,h4,h5,h6{
+    color: #0FE7D3 ;
+
+
+}
+p{
+    color: #C7D0CA;
+}
+.dip-clear{
+    clear: both;
+}
+.hr1{
+    border: solid black 8px;
+    width: 100%;
+    margin: 30px auto;
+    border-bottom: none;
+
+}
+.personal-section{
+
+}
+.content1{
+   
+}
+.feft-d{
+    
+    width: 30%;
+    float: left;
+  
+   
+
+
+}
+.right-d{
+    
+   
+    width: 70%;
+    float: left;
+}
+.common-hr{
+    border: solid black 2px ;
+    border-bottom: none;
+    width: 100%;
+    margin: 10px auto ;
+}
+.fc{
+     height: 100px;
+    width: 100%;
+
+     background-image: url(55555.jpg);
+     background-position: center;
+
+     text-align: center;
+     padding: 30px;
+  
+}
+.fc a{
+    color: #090A09;
+    text-decoration: none;
+    margin: 40px;
+   
+
+}
+button {
+    height: 40px;
+    width: 130px;
+    background-color: #10a515;
+    font-size: 20px;
+    color: aliceblue;
+}
+
